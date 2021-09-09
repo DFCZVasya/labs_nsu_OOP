@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\loopa\vasyas projects\labs_nsu_OOP\lab0\lab0\main.cpp(17,25): error C2668: Module1::getMyName: неоднозначный вызов перегруженной функции
+C:\Users\loopa\vasyas projects\labs_nsu_OOP\lab0\lab0\module1.h(5,14): message : может быть "std::string Module1::getMyName(void)"
+C:\Users\loopa\vasyas projects\labs_nsu_OOP\lab0\lab0\module2.h(5,14): message : или       "std::string Module2::getMyName(void)"
+C:\Users\loopa\vasyas projects\labs_nsu_OOP\lab0\lab0\main.cpp(17,25): message : при попытке сопоставить список аргументов "()"
